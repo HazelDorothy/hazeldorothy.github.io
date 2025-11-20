@@ -6,7 +6,7 @@ and is usually small \
 It's latin name is Ostrya Virginiana \
 and it's in the family Betulaceae  
 
-<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/bef010d9-00aa-4fcc-be35-87bb9f71dc52" /> \
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/bef010d9-00aa-4fcc-be35-87bb9f71dc52" /> 
 
 These are ironwood leaves! 
 
